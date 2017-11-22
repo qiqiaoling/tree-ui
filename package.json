@@ -1,18 +1,23 @@
 {
   "name": "tree-ui",
   "description": "tree-ui lib by Vue2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "qiqiaoling <352321572@qq.com>",
   "license": "MIT",
   "private": false,
   "main": "dist/tree-ui.js",
+  "module": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiqiaoling/tree-ui"
+    "url": "git+https://github.com/qiqiaoling/tree-ui.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "homepage": "https://github.com/qiqiaoling/tree-ui",
+  "bugs": {
+    "url": "https://github.com/qiqiaoling/tree-ui/issues"
   },
   "dependencies": {
     "vue": "^2.4.4"

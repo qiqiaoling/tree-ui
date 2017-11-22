@@ -1,5 +1,6 @@
 import {
-  Button
+  Button,
+  CheckboxGroup
 } from './module'
 
 function install(Vue) {
@@ -7,7 +8,8 @@ function install(Vue) {
     return
   }
   const components = [
-    Button
+    Button,
+    CheckboxGroup
   ]
   components.forEach((Component) => {
     Component.install(Vue)

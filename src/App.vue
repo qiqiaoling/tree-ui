@@ -28,6 +28,14 @@
           {
             path: '/button',
             text: 'Button'
+          },
+          {
+            path: '/checkbox',
+            text: 'Checkbox'
+          },
+          {
+            path: '/checkbox-group',
+            text: 'CheckboxGroup'
           }
         ]
       }
