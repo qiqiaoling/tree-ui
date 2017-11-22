@@ -1,3 +1,12 @@
+B:wq
+:wq
+B
+B
+B
+B
+B
+B
+B
 # tree-ui
 
 > tree-ui lib by vue2
