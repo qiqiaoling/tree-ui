@@ -8,7 +8,7 @@
         </onion-button-group>
         <onion-button-group>
           <onion-button :active="true">Active Button</onion-button>
-          <onion-button :disabled="true">Disabled Button</onion-button>
+          <onion-button :disabled="true">Disabled Button ddddfdsfsdfsdfsd</onion-button>
         </onion-button-group>
         <onion-button-group>
           <onion-button icon="onion-right">Button With DDDDDDDDDDDSSSSSS Icon</onion-button>
