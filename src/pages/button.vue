@@ -11,7 +11,7 @@
           <onion-button :disabled="true">Disabled Button</onion-button>
         </onion-button-group>
         <onion-button-group>
-          <onion-button icon="onion-right">Button With Icon</onion-button>
+          <onion-button icon="onion-right">Button With DDDDDDDDDDDSSSSSS Icon</onion-button>
         </onion-button-group>
         <onion-button-group>
           <onion-button :light="true">Light Button</onion-button>
